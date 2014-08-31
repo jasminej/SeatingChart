@@ -1,5 +1,8 @@
 SeatingChart
 ============
 
-Seating Chart generator for teachers 
-look at the mockups here https://moqups.com/jasminej/dpLfzISf
+Seating Chart generator for teachers
+
+## Mockups
+
+https://moqups.com/jasminej/dpLfzISf
